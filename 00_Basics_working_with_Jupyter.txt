@@ -1,0 +1,2 @@
+Starting Jupyter Notebooks w/ Epiphany 
+jupyter-notebook --browser epiphany
